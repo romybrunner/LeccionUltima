@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/estudiante/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi-v4/dos.png",
+        "source": "/home/estudiante/AndroidStudioProjects/MyApplication/app/src/main/res/mipmap-xxxhdpi/dos.png"
+    },
+    {
+        "merged": "/home/estudiante/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi-v4/uno.png",
+        "source": "/home/estudiante/AndroidStudioProjects/MyApplication/app/src/main/res/mipmap-xxxhdpi/uno.png"
+    },
+    {
+        "merged": "/home/estudiante/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi-v4/ic_launcher.png",
+        "source": "/home/estudiante/AndroidStudioProjects/MyApplication/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/estudiante/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi-v4/tres.png",
+        "source": "/home/estudiante/AndroidStudioProjects/MyApplication/app/src/main/res/mipmap-xxxhdpi/tres.png"
+    }
+]

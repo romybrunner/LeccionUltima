@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="19"
+    density="xhdpi"
+    format="7"
+    timestamp="8205963820767" >
+
+    <task
+        name="javac"
+        duration="0" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="0" />
+    <task
+        name="verifier"
+        duration="0" />
+
+    <build timestamp="7976025993877" >
+        <artifact
+            location="/home/estudiante/AndroidStudioProjects/MyApplication/app/build/outputs/apk/app-debug.apk"
+            type="MAIN" />
+    </build>
+    <build
+        timestamp="8198805851225"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="/home/estudiante/AndroidStudioProjects/MyApplication/app/build/intermediates/builds/debug/8198805851225/classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build timestamp="8205963820767" />
+
+</instant-run>
